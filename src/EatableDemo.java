@@ -9,7 +9,7 @@ public class EatableDemo {
         Runnable runnable1 = () -> {
             System.out.println("第一行代码");
             System.out.println("第二行代码");
-
+            System.out.println("第一次修改");
         };
     }
 
